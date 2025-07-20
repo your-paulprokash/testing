@@ -1,0 +1,31 @@
+{
+  "categories": [
+    {
+      "name": "Video Editing",
+      "skills": [
+        { "name": "Shorts", "level": 90 },
+        { "name": "MediumFrom", "level": 80 },
+        { "name": "longFrom", "level": 75 },
+        { "name": "Trailer", "level": 85 }
+      ]
+    },
+    {
+      "name": "Frontend Development",
+      "skills": [
+        { "name": "HTML", "level": 95 },
+        { "name": "CSS", "level": 90 },
+        { "name": "JavaScript", "level": 85 },
+        { "name": "Next.js", "level": 95 }
+      ]
+    },
+    {
+      "name": "Backend Development",
+      "skills": [
+        { "name": "Python", "level": 90 },
+        { "name": "Java", "level": 85 },
+        { "name": "PHP", "level": 80 },
+        { "name": "C#", "level": 75 }
+      ]
+    }
+  ]
+}
